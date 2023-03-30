@@ -9,7 +9,7 @@ source: https://drive.google.com/drive/folders/1yzLbQURsv-bc9EU4q5BR9cmDmGCodzlY
 #### ERC-20Price.zip:
   historical market price of 2,982 ERC-20 tokens collected by *CoinGecko API* 
 #### pickle_files.zip: 
-  * wins_timeWindowInfo.pickle: segemented time windows for event sequences
+  * wins_timeWindowInfo.pickle: segmented time windows for event sequences
   * Txn_relatedNormalTransactions.pickle: selected block transactions
   * Txn20_relatedERC20Transactions.pickle: selected ERC-20 transactions
   * real_cir_circlesofTransactionSequences.pickle: details of all cycles in each time window 
@@ -18,7 +18,7 @@ source: https://drive.google.com/drive/folders/1yzLbQURsv-bc9EU4q5BR9cmDmGCodzlY
   * fs_validfile.pickle: names of NFT collections
   * flow_relatedNormalTransactions.pickle: details for selected block transactions 
   * flow20_relatedERC20Transactions.pickle: details for selected ERC-20 transactions
-  * eth20P_erc20TokenHistoricalPrice.pickle: histroical price for ERC-2O tokens
+  * eth20P_erc20TokenHistoricalPrice.pickle: historical price for ERC-2O tokens
 
 ## code
 #### collection_slug.py
